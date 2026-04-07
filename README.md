@@ -1,13 +1,13 @@
 # Amazon Prime Video Content Analytics Dashboard | Power BI
 
-##  Project Overview
+## ◆ Project Overview
 This Power BI dashboard provides an in-depth analysis of Amazon Prime Video’s content library.  
 The dashboard helps explore movies and TV shows based on genres, ratings, release years, countries, and content trends.
 
-## Objective
+## ➤ Objective
 The objective of this project is to analyze Amazon Prime Video content data and generate meaningful insights through interactive visualizations.
 
-## 🛠 Tools & Technologies Used
+## ➤ Tools & Technologies Used
 - Power BI
 - CSV Dataset
 - DAX
@@ -51,7 +51,7 @@ Amazon-Prime-Video-Dashboard-PowerBI/
 │
 └── README.md
 
-##  Key Skills Demonstrated
+## ▶ Key Skills Demonstrated
 - Data Cleaning
 - Data Modeling
 - DAX Measures
